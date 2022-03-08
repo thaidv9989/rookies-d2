@@ -1,0 +1,11 @@
+.counter__btn{
+    color: red;
+    background-color: #7ee9ae;
+    border: 1px solid #333;
+    margin: 20px 15px;
+    font-size: 30px;
+}
+.counter__values{
+    font-size: 30px;
+    margin: 15px 10px;
+}

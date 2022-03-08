@@ -1,0 +1,25 @@
+.poke_btn{
+    padding: 5px;
+    margin: 10px 5px;
+    border-radius: 10px;
+    font-size: 15px;
+    background: rgb(90, 92, 197);
+    border: none;
+    color: aqua;
+    
+}
+.poke_btn:hover{
+    position: relative;
+    background: rgb(233, 123, 233)
+}
+.poke_body{
+    margin: 0 20px;
+    background-color: #75ec85;
+    max-width: 10%;
+}
+.poke_body p{
+    text-align: center;
+}
+.poke_body img{
+    margin: 0 auto;
+}
